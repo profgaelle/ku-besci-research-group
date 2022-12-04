@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Marlène Abadie
-- Gaelle Villejoubert
+- gaelle-v
 - Laurent Waroquier
-- Frédéric Vallée-Tourangeau
+- fred-vallee-tourangeau
 tags: []
 categories: []
 date: '2013-09-01'
@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [heuri]
 publishDate: '2021-11-21T08:16:51.402825Z'
 publication_types:
 - '2'
