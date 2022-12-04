@@ -31,7 +31,7 @@ content:
     - 'Tuesday 10:00 to 17:00'
     - 'Wednesday 10:00 to 17:00'
     - 'Thursday 10:00 to 17:00'
-  appointment_url: 'https://orsee.kingston.ac.uk'
+  #appointment_url: 'https://orsee.kingston.ac.uk'
   #contact_links:
   #  - icon: linkedin
   #    icon_pack: fab
