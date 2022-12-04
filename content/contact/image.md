@@ -26,3 +26,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
+Get in touch to learn more about our research, opportunities to join the research group, or to visit the Behavioural Science Lab at Kingston University.
