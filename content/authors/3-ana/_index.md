@@ -9,11 +9,11 @@ superuser: false
 # role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
-organizations:
-- name: Kingston Business School
-  url: "https://www.kingston.ac.uk/staff/profile/dr-ana-wheelock-795/"
-- name: Imperial College London
-  url: "https://www.imperial.ac.uk/people/a.wheelock"
+# organizations:
+#- name: Kingston Business School
+#  url: "https://www.kingston.ac.uk/staff/profile/dr-ana-wheelock-795/"
+#- name: Imperial College London
+#  url: "https://www.imperial.ac.uk/people/a.wheelock"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
