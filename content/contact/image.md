@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: annie-spratt-goholCAVTRs-unsplash.jpg
+    image: KUBSlab.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
