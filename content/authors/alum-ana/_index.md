@@ -5,12 +5,12 @@ title: Dr Ana Wheelock-Zalaquett
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Lead analyst
+# # Role/position
+# role: Lead analyst
 
-# Organizations/Affiliations
-organizations:
-- name: Office for National Statistics
+# # Organizations/Affiliations
+# organizations:
+# - name: Office for National Statistics
 #  url: "https://www.kingston.ac.uk/staff/profile/dr-ana-wheelock-795/"
 #- name: Imperial College London
 #  url: "https://www.imperial.ac.uk/people/a.wheelock"
