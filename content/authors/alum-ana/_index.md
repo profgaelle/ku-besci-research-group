@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Ana Wheelock-Zalaquett
+title: Ana Wheelock-Zalaquett
 
 # Is this the primary user of the site?
 superuser: false

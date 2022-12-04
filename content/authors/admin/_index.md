@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Gaëlle Vallée-Tourangeau
+title: Gaëlle Vallée-Tourangeau
 
 # Is this the primary user of the site?
 superuser: true

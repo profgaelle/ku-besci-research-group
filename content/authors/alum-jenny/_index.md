@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jenny Bloom, PhD
+title: Jenny Bloom
 
 # Is this the primary user of the site?
 superuser: false

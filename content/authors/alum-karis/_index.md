@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karis Moon, PhD
+title: Karis Moon
 
 # Is this the primary user of the site?
 superuser: false

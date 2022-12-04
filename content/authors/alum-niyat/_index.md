@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Niyat Henok, PhD
+title: Egle Butt
 
 # Is this the primary user of the site?
 superuser: false
@@ -8,7 +8,7 @@ superuser: false
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/niyat-henok-phd-543a00b1/
+  link: https://www.linkedin.com/in/egle-butt/
 
 user_groups:
 - Alumni
