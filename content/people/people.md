@@ -20,6 +20,7 @@ content:
     - Researchers
     - Research students
     - BeSci lab manager
+    - Collaborators
     - Visitors
     - Alumni
 design:
