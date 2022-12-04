@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gaëlle Vallée-Tourangeau
+title: Prof Gaëlle Vallée-Tourangeau
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: Professor of Behavioural Science
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
