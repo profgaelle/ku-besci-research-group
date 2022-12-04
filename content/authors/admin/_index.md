@@ -8,6 +8,12 @@ superuser: true
 # Role/position/tagline
 role: Professor of Behavioural Science
 
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Researchers
+  - Visitors
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Kingston Business School
