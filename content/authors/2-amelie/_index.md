@@ -5,7 +5,7 @@ title: Amélie Gourdon-Kanhukamwe
 # Is this the primary user of the site?
 superuser: false
 
-Role/position
+# Role/position
 role: Lecturer in Neuroscience and Psychology Education
 
 # Social/Academic Networking
