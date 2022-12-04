@@ -30,9 +30,9 @@ social:
   link: https://www.linkedin.com/in/ameliegourdon/
 
 # Organizations/Affiliations
-organizations:
-- name: King's College London
-- url: "https://kclpure.kcl.ac.uk/portal/en/persons/amelie-gourdonkanhukamwe(b5da72b7-dc5e-4bd5-ab50-3ad2d61da8d8).html"
+# organizations:
+# - name: King's College London
+# - url: "https://kclpure.kcl.ac.uk/portal/en/persons/amelie-gourdonkanhukamwe(b5da72b7-dc5e-4bd5-ab50-3ad2d61da8d8).html"
 
 user_groups:
 - Alumni

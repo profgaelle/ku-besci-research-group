@@ -9,9 +9,9 @@ superuser: false
 # role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
-organizations:
-- name: UK National Health Services
-  url: ""
+# organizations:
+# - name: UK National Health Services
+#   url: ""
 
 user_groups:
 - Alumni
