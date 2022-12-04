@@ -10,7 +10,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: NHS
+- name: UK National Health Services
   url: ""
 
 user_groups:

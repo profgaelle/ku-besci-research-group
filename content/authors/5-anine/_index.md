@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Anine Cecilie Riege
+title: Dr Anine Cecilie Riege
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-# role: Postdoctoral Research Associate
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ana Wheelock-Zalaquett
+title: Dr Ana Wheelock-Zalaquett
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-# role: Postdoctoral Research Associate
+role: Lead analyst
 
 # Organizations/Affiliations
 organizations:

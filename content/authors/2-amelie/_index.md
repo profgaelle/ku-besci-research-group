@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amélie Gourdon-Kanhukamwe
+title: Dr Amélie Gourdon-Kanhukamwe
 
 # Is this the primary user of the site?
 superuser: false
