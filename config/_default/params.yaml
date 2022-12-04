@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Gaëlle Vallée-Tourangeau. This work is licensed under {license}'
+    notice: '© {year} Gaelle Vallee-Tourangeau. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
