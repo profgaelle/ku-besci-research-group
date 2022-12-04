@@ -6,7 +6,7 @@ title: Dr Amélie Gourdon-Kanhukamwe
 superuser: false
 
 # Role/position
-role: Lecturer in Neuroscience and Psychology Education
+# role: Lecturer in Neuroscience and Psychology Education
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -19,7 +19,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aFrenchparadox
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=wb6B5OkAAAAJ&hl=en
