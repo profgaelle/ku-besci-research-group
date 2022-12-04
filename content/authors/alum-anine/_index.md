@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Anine Cecilie Riege
+title: Anine Cecilie Riege, PhD
 
 # Is this the primary user of the site?
 superuser: false

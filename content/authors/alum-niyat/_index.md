@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Niyat Henok
+title: Niyat Henok, PhD
 
 # Is this the primary user of the site?
 superuser: false
