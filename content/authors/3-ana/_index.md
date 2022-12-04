@@ -9,7 +9,7 @@ superuser: false
 # role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
- organizations:
+organizations:
 - name: Office for National Statistics
 #  url: "https://www.kingston.ac.uk/staff/profile/dr-ana-wheelock-795/"
 #- name: Imperial College London
