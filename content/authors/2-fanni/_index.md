@@ -10,7 +10,7 @@ authors:
 superuser: no
 
 # Role/position
-role: BeSci Lab manager and PhD research student
+role: PhD student & BeSci lab manager
 
 # Organizations/Affiliations
 organizations:
