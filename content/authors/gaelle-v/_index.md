@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gaëlle Vallée-Tourangeau
+title: Gaëlle Villejoubert
 
 # Is this the primary user of the site?
 superuser: false
