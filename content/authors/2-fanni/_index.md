@@ -58,5 +58,7 @@ social:
 user_groups:
 - Research students
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 I am a Research Assistant attached to the Towards Outstanding Research Reviews project (TORR), funded by the Wellcome Trust. The TORR project aims to understand how peer reviewers use and combine information in grant applications to make their recommendations. I am also a current PhD Psychology student at Kingston University. My research involves examining the social representations of medicinal cannabis.
