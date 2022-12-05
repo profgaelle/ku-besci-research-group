@@ -7,7 +7,7 @@ authors:
 - 2-fanni
 
 # Is this the primary user of the site?
-superuser: no
+superuser: yes
 
 # Role/position
 role: PhD student & BeSci lab manager
