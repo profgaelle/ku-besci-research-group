@@ -1,5 +1,5 @@
 ---
-title: "Individual innovation and creativity: An interdisciplinary mapping of creative cognition"
+title: 'Individual innovation and creativity: An interdisciplinary mapping of creative cognition'
 authors:
  - admin
  - Evy Sakellariou
