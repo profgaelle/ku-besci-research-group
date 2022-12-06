@@ -44,7 +44,7 @@ projects: [systm]
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://10.31234/osf.io/xmjer'
+url_preprint: 'http://10.31234/osf.io/xmjer'
 url_code: ''
 url_dataset: ''
 url_poster: ''
