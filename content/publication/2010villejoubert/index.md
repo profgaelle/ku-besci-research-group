@@ -19,7 +19,7 @@ publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
 publication = "In K.  Böcker (Ed.), *Uncertainty, Bayesian Analysis and Expert Judgement* (Vol. I, pp. 405-435), London: Risk Books"
-publication_short = "In *Uncertainty, Bayesian Analysis and Expert Judgement*"
+publication_short = "In K. Böcker (Ed.), *Uncertainty, Bayesian Analysis and Expert Judgement* (Vol. I, pp. 405-435), London: Risk Books"
 
 # Abstract and optional shortened version.
 abstract = "A better understanding of how  human factors may shape risk perception and risk taking is key to improve investment performance. This chapter draws on research on the psychology of risk and decision-making under uncertainty to shed light on these issues. The first part focuses on the evaluation of risk and uncertainty. After outlining the different psychological concepts of uncertainty, we review the different factors influencing individuals’ subjective perception of risk as well as the heuristics they may use to gauge risk and uncertainty. The second part of this chapter focuses on the different factors influencing human risk-taking behaviour, ranging from attitudes to risk to the contexts in which risky decisions take place, and the role of emotions in risk taking."
