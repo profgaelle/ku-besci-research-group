@@ -55,6 +55,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
@@ -74,5 +75,42 @@ projects: ['heuri']
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides:""
+
+doi: 10.1002/bsl.2030
 ---
+<html>
+  <style>
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  </style>
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span style="float:left"; 
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1002/bsl.2030" 
+          data-hide-zero-citations="true" 
+          data-legend="always">
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        <div  style="float:right"; 
+          data-link-target="_blank" 
+          data-badge-details="none" 
+          data-badge-type="donut"
+          data-doi="10.1002/bsl.2030"   
+          data-condensed="true"
+          data-hide-no-mentions="true" 
+          class="altmetric-embed">
+        </div>
+    </div>
+  </section>
