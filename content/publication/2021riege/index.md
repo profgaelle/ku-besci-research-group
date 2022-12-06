@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Anine Riege
 - Amélie Gourdon-Kanhukamwe
-- Gaëlle Vallée-Tourangeau
+- admin
 tags: 
 - Judgement & Decision-making
 - Behavioural science
